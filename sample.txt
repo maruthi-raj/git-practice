@@ -2,5 +2,3 @@
 <This is a sample practice text>
 <This is a sample practice text>
 <This is a sample practice text>
-<Just a plain text without feature>
-<Added a plain text with feature>
