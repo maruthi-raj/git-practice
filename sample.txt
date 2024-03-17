@@ -1,5 +1,1 @@
 <This is a sample practice text>
-<This is a sample practice text>
-<This is a sample practice text>
-<This is a sample practice text>
-<Writing a comment to check git pull>
