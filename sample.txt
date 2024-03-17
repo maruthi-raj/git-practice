@@ -2,4 +2,3 @@
 <This is a sample practice text>
 <This is a sample practice text>
 <This is a sample practice text>
-<Testing git pull>
